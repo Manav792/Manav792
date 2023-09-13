@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manav Bakliwal</h1>
 <h3 align="center">I'm a pre-final undergrad Computer Science and Engineering student and Data Science Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manav792&label=Profile%20views&color=0e75b6&style=flat" alt="manav792" /> </p>
+
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -13,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/manav_bakliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manav_bakliwal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manav bakliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manav bakliwal" height="30" width="40" /></a>
 <a href="https://kaggle.com/manav bakliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manav bakliwal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manavbakliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manavbakliwal" height="30" width="40" /></a>
