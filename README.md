@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manavbakliwal792@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1VSziQIp4Po-FaNLg6SHUavb7fQzHFGxH/view?usp=sharing](https://drive.google.com/file/d/1AYWCTppXLpzFgAeITGEkkcc4NxaxOZpc/view?usp=sharing)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1vpR1UvZUhyAxFTk-ZcqU1UVycRnBO_Fb/view?usp=drive_link](https://drive.google.com/file/d/1vpR1UvZUhyAxFTk-ZcqU1UVycRnBO_Fb/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
