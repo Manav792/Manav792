@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manav Bakliwal</h1>
-<h3 align="center">I'm a pre-final undergrad Computer Science and Engineering student and Data Science Enthusiast</h3>
+<h3 align="center">I'm a Undergrad Computer Science and Engineering student and Gen AI Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manav792&label=Profile%20views&color=0e75b6&style=flat" alt="manav792" /> </p>
 
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Generative AI, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **manavbakliwal792@gmail.com**
-
-- 📄 Know about my experiences ([[https://drive.google.com/file/d/1-oqNovT51NaGQB_82uSzzn_k8B1B42jt/view?usp=drive_link]]((https://drive.google.com/file/d/1-oqNovT51NaGQB_82uSzzn_k8B1B42jt/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
